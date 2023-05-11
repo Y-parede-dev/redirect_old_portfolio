@@ -1,0 +1,3 @@
+user-agent:*
+RedirectPermanent /index.html
+https://magin-code.netlify.app/
